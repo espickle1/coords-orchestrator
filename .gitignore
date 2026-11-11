@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# coords-orchestrator: maps built from a project's coords.toml live next to that project, not in this repo
+maps/
